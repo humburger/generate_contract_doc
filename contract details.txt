@@ -1,0 +1,10 @@
+sec_party_org_name Crushing candies
+sec_party_org_reg_num 456678897890
+sec_party_org_addr Lavender Street 69
+
+sec_party_contact_name Oggy Cockroach
+sec_party_contact_phone 235443534
+sec_party_contact_email oggy.cockroach@inbox.com
+
+sec_party_signature_name Oggy Cockroach
+sec_party_signature_position Manager
