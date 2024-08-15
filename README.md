@@ -1,0 +1,1 @@
+There was time when I needed to prepare multiple contracts every day, idea came to mind to semi-automatize it, because of multiple side-steps. There is one file where I collect data, when data is ready then python script 'puts' data into generated document (does same as find and replace, but faster if there needs to be accountable which contract is for which person)
